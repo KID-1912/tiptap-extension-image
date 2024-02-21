@@ -1,0 +1,26 @@
+{
+  "name": "tiptap-extension-image",
+  "version": "1.0.0",
+  "description": "Make tiptap support image tags to provide predefined styles for img.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "style",
+    "image"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-image",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-image.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.3",
+    "@tiptap/extension-image": "^2.2.3"
+  }
+}
